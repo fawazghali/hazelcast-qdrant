@@ -13,7 +13,7 @@ Here we present a hybrid approach by taking the strengths of vector databases an
 
 <b>Note:</b> Both Hazelcast and Qdrant offer cloud solutions allowing to run this demo on the cloud with minimal setup and free accounts. Give it a try and let me know how you’re getting on <a href="https://www.linkedin.com/in/fawazghali/">@fawazghali</a>.
 
-<img src="HZ_VDB.jpg"/>
+<img src="Hazelcast_Qdrant.png"/>
 
 Up to here, we used Qdrant for similarity search and filtered results with predefined attributes defined in the payload. If we want to boost this similarity search with features that do not belong to vectors or payload, we can use Hazelcast features for real-time stream processing and fast data store.  
 
