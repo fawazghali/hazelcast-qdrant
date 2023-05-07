@@ -19,9 +19,9 @@ Up to here, we used Qdrant for similarity search and filtered results with prede
 
 For example, we use Qdrant for similarity search on the movies dataset by encoding the description and applying filtering on the movies' voting count. The relationship between movies and actors is many-to-many. In this demo, actors are stored in a different array and linked to movies using another array, casts.
 
-Movies {id, title, description, vote_count}
-Casts { movie_id, actor_id}
-Actors { id, name, popularity}
+<B>Movies:</B> {id, title, description, vote_count}<BR>
+<B>Casts:</B> { movie_id, actor_id}<BR>
+<B>Actors:</B> { id, name, popularity}
 
 Movies are stored and searched using Qdrant
 Casts and actors are stored and searched using Hazelcast
