@@ -27,8 +27,8 @@ Movies are stored and searched using Qdrant
 Casts and actors are stored and searched using Hazelcast
 Boosting = Hazelcast + Qdrant
 
-Example:
-<b>Case 1:</b> Have you ever forgotten the name of a movie but vaguely remember the story (“ramen noodles”)? In this case, we use Qdrant.
+Example:<BR>
+<b>Case 1:</b> Have you ever forgotten the name of a movie but vaguely remember the story (“ramen noodles”)? In this case, we use Qdrant.<BR>
 <b>Case 2:</b> Have you ever forgotten the name of a movie but vaguely remember the story (“ramen noodles”) but you remember an actor has an “an” in their names? In this case, we use Qdrant and Hazelcast.
 
 <b>Summary:</b>
