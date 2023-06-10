@@ -32,4 +32,6 @@ Example:<BR>
 <b>Case 2:</b> Have you ever forgotten the name of a movie but vaguely remember the story (“ramen noodles”) but you remember an actor has an “an” in their names? In this case, we use Qdrant and Hazelcast.
 
 <b>Summary:</b>
-So here you have it, boosting similarity search with Hazelcast and Qdrant. Combining the strengths and advantages of vector databases and real-time stream processing provides a unique developer experience and an efficient way of processing data in real-time at scale. If you find this content useful, give it a try and let me know how you’re getting on <a href="https://www.linkedin.com/in/fawazghali/">@fawazghali</a>. Stay tuned for Part 2 where I’ll cover how you can ingest, enrich, predict and act on your data in a simplified but efficient approach.
+So here you have it, boosting similarity search with Hazelcast and Qdrant. Combining the strengths and advantages of vector databases and real-time stream processing provides a unique developer experience and an efficient way of processing data in real-time at scale. If you find this content useful, give it a try and let me know how you’re getting on <a href="https://www.linkedin.com/in/fawazghali/">@fawazghali</a>. 
+
+Stay tuned for Part 2 where I’ll cover how you can ingest, enrich, predict and act on your data in a simplified but efficient approach using Hazelcast.
